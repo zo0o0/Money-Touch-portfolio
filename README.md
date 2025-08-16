@@ -23,9 +23,11 @@
 ## 📷 담당 화면 캡처
 (피드 홈)
 <img width="284" height="603" alt="image" src="https://github.com/user-attachments/assets/68f4b10c-0247-43f5-8f57-1a6ddc465b4c" />
+
 (피드 상세)
 <img width="204" height="432" alt="image" src="https://github.com/user-attachments/assets/a0db5e1b-76ec-45b4-adf6-484ac9f45d0d" />
 <img width="204" height="135" alt="image" src="https://github.com/user-attachments/assets/3c8bcf56-8556-41d1-8859-46035d0cb2e1" />
+
 (MY 배지)
 <img width="284" height="616" alt="image" src="https://github.com/user-attachments/assets/76912ea0-0b46-4b02-a451-77cac51e69c0" />
 
